@@ -1,4 +1,4 @@
-# Kosmos
+# <img src="composeApp/src/commonMain/composeResources/drawable/kosmos_logo.png" style="height: 1em; margin-bottom: -0.1em;">osmos
 
 ## The All-in-One Business Solution Built with Kotlin
 
