@@ -55,6 +55,8 @@ kotlin {
             implementation(libs.androidx.lifecycle.viewmodelCompose)
             implementation(libs.androidx.lifecycle.runtimeCompose)
             implementation(projects.shared)
+            implementation(projects.crm)
+            implementation(projects.pm)
         }
         commonTest.dependencies {
             implementation(libs.kotlin.test)

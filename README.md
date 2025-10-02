@@ -1,4 +1,4 @@
-# <img src="composeApp/src/commonMain/composeResources/drawable/kosmos_logo.png" style="height: 1em; margin-bottom: -0.1em;">osmos
+# <img src="composeApp/src/commonMain/composeResources/drawable/kosmos_logo.png" style="height: 2em; margin-bottom: -0.1em;">osmos
 
 ## The All-in-One Business Solution Built with Kotlin
 
@@ -32,7 +32,7 @@ Kosmos is an integrated suite of tools aimed at centralizing your business intel
 |:----------------------|:-------------------------------------|:-------------------------------------------------------------|
 | **Primary Language**  | **Kotlin**                           | For all backend and frontend/mobile development.             |
 | **Backend Framework** | **Ktor/Spring Boot (Kotlin)**        | To build scalable, asynchronous server-side applications.    |
-| **Database**          | **PostgreSQL/SQLite**                | For robust, flexible, and scalable data persistence.         |
+| **Database**          | **SQLDelight (PostgreSQL/SQLite)**   | For robust, flexible, and scalable data persistence.         |
 | **AI/ML**             | **Koog/possible Python Integration** | For running machine learning models and generating insights. |
 | **Containerization**  | **Docker & Kubernetes**              | For consistent deployment and orchestration.                 |
 
